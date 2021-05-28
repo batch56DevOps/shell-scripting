@@ -5,4 +5,4 @@ name=DevOps
 echo course is $name
 
 DATE=$(date +%F)
-echo Hola! , today's date is $DATE
+echo "Hola! , today's date is $DATE"
