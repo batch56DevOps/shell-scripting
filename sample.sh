@@ -13,6 +13,6 @@ echo -e "\tthis helps to demonstrate and use
          and it can get difficult to keep a track of it all.
          That's why we've come up with a one-stop solution for your lockdown queries"
 
-echo -e "\e[31Hello this is red color\e[0m"
+echo -e "\e[31mHello this is red color\e[0m"
 echo this text is with out an color
-echo -e "\e[33Hello this is yellow color\e[0m"
+echo -e "\e[33mHello this is yellow color\e[0m"
